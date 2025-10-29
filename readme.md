@@ -28,18 +28,20 @@ This project visualizes a dynamic galaxy environment with stars, particles, and 
    git clone https://github.com/MahyaBaghai/3D-Galaxy.git
    cd 3D-Galaxy
 
-2. **Run this followed commands**
-   
-``` bash
-# Install dependencies (only the first time)
-npm install
+2. **Install dependencies (only the first time)**
+   ``` bash
+   npm install
 
-# Run the local server at localhost:8080
-npm run dev
+3. **Run the local server at localhost:8080**
+   ``` bash
+   npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
+4. **Build for production in the dist/ directory**
+   ``` bash
+   npm run build
+
+
+
 
 
 
