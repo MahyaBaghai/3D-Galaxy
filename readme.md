@@ -39,10 +39,3 @@ This project visualizes a dynamic galaxy environment with stars, particles, and 
 4. **Build for production in the dist/ directory**
    ``` bash
    npm run build
-
-
-
-
-
-
-
